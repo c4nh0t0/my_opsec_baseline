@@ -24,6 +24,7 @@ My curated list of extensions/add-ons/plugins/tools to minimize your digital fin
 * [Terms of Service; Didn’t Read: Be Informed](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/)
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 * [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
+* [AdNauseam](https://addons.mozilla.org/pt-BR/firefox/addon/adnauseam/)
 
 ## [↑](#contents) Google Chrome Extensions
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
