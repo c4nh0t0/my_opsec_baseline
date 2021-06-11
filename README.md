@@ -28,6 +28,7 @@ My curated list of extensions/add-ons/plugins/tools to minimize your digital fin
 * ![2253203-64](https://user-images.githubusercontent.com/8462973/121754667-90c6b900-caeb-11eb-9ab4-a18b2518813b.png) [WebGL Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/webgl-fingerprint-defender/)
 * ![938068-64](https://user-images.githubusercontent.com/8462973/121754881-22362b00-caec-11eb-88b2-03439b6a4b5c.png) [AudioContext Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/audioctx-fingerprint-defender/)
 * ![2596225-64](https://user-images.githubusercontent.com/8462973/121755009-6f1a0180-caec-11eb-853c-9f68af8a97f1.png) [Font Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/)
+* ![932035-64](https://user-images.githubusercontent.com/8462973/121755459-958c6c80-caed-11eb-94d7-44127f98defa.png) [Change Geolocation (Location Guard)](https://addons.mozilla.org/en-US/firefox/addon/change-geolocation-locguard/)
 
 <br>
 
