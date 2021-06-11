@@ -24,7 +24,10 @@ My curated list of extensions/add-ons/plugins/tools to minimize your digital fin
 * ![390151-64](https://user-images.githubusercontent.com/8462973/121586268-dad76e00-ca09-11eb-85b9-328561dc2b55.png) [Terms of Service; Didn’t Read: Be Informed](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/)
 * ![888648-64](https://user-images.githubusercontent.com/8462973/121586526-2427bd80-ca0a-11eb-9502-5c85eacdf7d5.png) [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 * ![613250-64](https://user-images.githubusercontent.com/8462973/121586768-6b15b300-ca0a-11eb-9a17-588ee168c36f.png) [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
-* ![585454-64](https://user-images.githubusercontent.com/8462973/121586853-897bae80-ca0a-11eb-96d7-c0f892e7ddf0.png) [AdNauseam](https://addons.mozilla.org/pt-BR/firefox/addon/adnauseam/)
+* ![585454-64](https://user-images.githubusercontent.com/8462973/121586853-897bae80-ca0a-11eb-96d7-c0f892e7ddf0.png) [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/)
+* ![2253203-64](https://user-images.githubusercontent.com/8462973/121754667-90c6b900-caeb-11eb-9ab4-a18b2518813b.png) [WebGL Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/webgl-fingerprint-defender/)
+* ![938068-64](https://user-images.githubusercontent.com/8462973/121754881-22362b00-caec-11eb-88b2-03439b6a4b5c.png) [AudioContext Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/audioctx-fingerprint-defender/)
+* ![2596225-64](https://user-images.githubusercontent.com/8462973/121755009-6f1a0180-caec-11eb-853c-9f68af8a97f1.png) [Font Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/)
 
 <br>
 
