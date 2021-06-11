@@ -1,6 +1,6 @@
 # OPSEC Baseline
 
-My curated list of extensions/add-ons/plugins/tools to minimize your digital fingerprinting while web surfing/doing stuff.
+My curated list of extensions/add-ons/plugins/tools useful to minimize your web browsing fingerprinting while surfing/doing stuff.
 
 
 ## 📖 Table of Contents
