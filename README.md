@@ -2,14 +2,16 @@
 
 My curated list of extensions/add-ons/plugins/tools useful to minimize your web browsing fingerprinting while surfing/doing stuff.
 
+[UNDER CONSTRUCTION]
+
 
 ## 📖 Table of Contents
 
- - [Mozilla Firefox Extensions](#-mozilla-firefox-extensions)
- - [Google Chrome Extensions](#-google-chrome-extensions)
+
+---
 
 
-## [↑](#contents) Mozilla Firefox Extensions
+## Mozilla Firefox Extensions
 
 * ![607454-64](https://user-images.githubusercontent.com/8462973/121584357-c2feea80-ca07-11eb-8ca5-29576decacd5.png) [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * ![722-64](https://user-images.githubusercontent.com/8462973/121584770-37d22480-ca08-11eb-8c66-ffb09309351e.png) [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
@@ -31,12 +33,16 @@ My curated list of extensions/add-ons/plugins/tools useful to minimize your web 
 * ![932035-64](https://user-images.githubusercontent.com/8462973/121755459-958c6c80-caed-11eb-94d7-44127f98defa.png) [Change Geolocation (Location Guard)](https://addons.mozilla.org/en-US/firefox/addon/change-geolocation-locguard/)
 * ![939692-64](https://user-images.githubusercontent.com/8462973/121755625-0469c580-caee-11eb-8dba-8e3b46d1d031.png) [Tracking Token Stripper](https://addons.mozilla.org/en-US/firefox/addon/utm-tracking-token-stripper/)
 
-<br>
+---
 
-## [↑](#contents) Google Chrome Extensions
+## Google Chrome Extensions
 * ![607454-64](https://user-images.githubusercontent.com/8462973/121584357-c2feea80-ca07-11eb-8ca5-29576decacd5.png) [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * ![722-64](https://user-images.githubusercontent.com/8462973/121584770-37d22480-ca08-11eb-8c66-ffb09309351e.png) [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 * ![unnamed](https://user-images.githubusercontent.com/8462973/121588845-c648a500-ca0c-11eb-83c1-f6a1c8008180.jpg) [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 * ![229918-64](https://user-images.githubusercontent.com/8462973/121585481-060d8d80-ca09-11eb-8456-1f21b10031bf.png) [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 * ![506646-64](https://user-images.githubusercontent.com/8462973/121584662-196c2900-ca08-11eb-8047-99db2513612c.png) [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 * ![521554-64](https://user-images.githubusercontent.com/8462973/121585735-4967fc00-ca09-11eb-9477-b55ed68b74db.png) [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+
+---
+
+## Mozilla Firefox Hardening Configuration
